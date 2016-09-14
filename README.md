@@ -12,7 +12,7 @@ This is an SJTU Jaccount Captcha recognizing plugin project for Chrome and Chrom
 
 You can use 'test.m' to train a single neuro network, and use 'captcha.m' to train multiple neuro networks to observe the performance.
 
-other '.m' files are mainly neuro network functions.
+Other '.m' files are mainly neuro network functions.
 Some of the images and data files are my testing results.
 
 In the folder Captcha Plus, there are several small neuro networks for further optimization. The optimization is based on the error rate in 'error.txt'
